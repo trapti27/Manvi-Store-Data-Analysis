@@ -18,7 +18,7 @@ Based on the data analysis, the following key insights were identified:
 4. **Sales Channels**:
    - 🛒 Amazon, Flipkart, and Myntra channels are the main contributors to sales.
 
-## Final Conclusion to Improve Vrinda Store Sales 💡
+## Final Conclusion to Improve Manvi Store Sales 💡
 To effectively improve Manvi store sales, the following strategy is recommended:
 
 - **Target Audience**: Focus on women customers in the 30-49 years age group.
